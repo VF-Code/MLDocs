@@ -5,7 +5,7 @@
 ![登录页面](https://mldocs.ks3-cn-beijing.ksyuncs.com/%E7%99%BB%E5%BD%95/%E7%99%BB%E5%BD%95%E5%9B%BE.png)
 
 * 修改密码：登录之后，点击右上角头像信息，进入个人资料页面，选择重置密码，可进行密码修改，建议密码包含英文、数字的8位以上密码。
-![修改密码](https://mldocs.ks3-cn-beijing.ksyuncs.com/%E7%99%BB%E5%BD%95/%E4%BF%AE%E6%94%B9%E5%AF%86%E7%A0%81.png)
+![修改密码](https://mldocs.ks3-cn-beijing.ksyuncs.com/%E7%99%BB%E5%BD%95/%E9%87%8D%E7%BD%AE%E5%AF%86%E7%A0%81.png)
   
 ### 用户管理
 ---------------
@@ -34,4 +34,4 @@
 ### 用户配置和个性化
 ---------------
 个人资料设置：详细介绍用户可以自定义的个人资料设置，例如头像、称、联系信息等。  
-![个人设置](https://mldocs.ks3-cn-beijing.ksyuncs.com/%E7%99%BB%E5%BD%95/%E4%B8%AA%E4%BA%BA%E8%AE%BE%E7%BD%AE.png)
+![个人设置](https://mldocs.ks3-cn-beijing.ksyuncs.com/%E7%99%BB%E5%BD%95/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E8%AE%BE%E7%BD%AE.png)

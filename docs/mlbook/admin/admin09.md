@@ -7,16 +7,13 @@
 
 ### 添加报表模板
 ---------------
-
-![添加报表模板](https://mldocs.ks3-cn-beijing.ksyuncs.com/%E6%8A%A5%E8%A1%A8%E8%AE%BE%E8%AE%A1/%E6%B7%BB%E5%8A%A0%E6%8A%A5%E8%A1%A8%E6%A8%A1%E6%9D%BF.png)
-
 1.进入系统管理，选择报表设计模块。（使用时需联系管理员配置插件）
 
-![添加报表模板入口](https://mldocs.ks3-cn-beijing.ksyuncs.com/%E6%8A%A5%E8%A1%A8%E8%AE%BE%E8%AE%A1/%E6%B7%BB%E5%8A%A0%E6%8A%A5%E8%A1%A8%E6%A8%A1%E6%9D%BF%E5%85%A5%E5%8F%A3.png)
+![添加报表](https://mldocs.ks3-cn-beijing.ksyuncs.com/%E6%8A%A5%E8%A1%A8%E8%AE%BE%E8%AE%A1/%E6%8A%A5%E8%A1%A8%E8%AE%BE%E8%AE%A1%EF%BC%88%E6%8A%A5%E8%A1%A8%EF%BC%89.png)
 
 2.点击【添加】弹出新建模板弹窗，①选择对应的应用实体，②输入模板的名称，③点击保存后创建成功。
 
-![添加弹框]()
+![添加弹框](https://mldocs.ks3-cn-beijing.ksyuncs.com/%E6%8A%A5%E8%A1%A8%E8%AE%BE%E8%AE%A1/%E6%B7%BB%E5%8A%A0%E6%8A%A5%E8%A1%A8%EF%BC%88%E6%8A%A5%E8%A1%A8%EF%BC%89.png)
 
 ### 编辑报表模板
 ---------------
@@ -28,7 +25,7 @@
 
 2.自定义表格模板，仅需将对应实体的字段通过鼠标拉到相应的单元格上。对于 Excel 格式（如字体大小、颜色等）可根据自身需求随意调整。下图展示了一个 Excel 报表模板内容。
 
-![自定义表格模板]https://mldocs.ks3-cn-beijing.ksyuncs.com/%E6%8A%A5%E8%A1%A8%E8%AE%BE%E8%AE%A1/%E8%87%AA%E5%AE%9A%E4%B9%89%E6%8A%A5%E8%A1%A8%E6%A0%BC%E5%BC%8F.png)
+![自定义表格模板](https://mldocs.ks3-cn-beijing.ksyuncs.com/%E6%8A%A5%E8%A1%A8%E8%AE%BE%E8%AE%A1/%E8%87%AA%E5%AE%9A%E4%B9%89%E6%8A%A5%E8%A1%A8%E6%A0%BC%E5%BC%8F.png)
 
 
 ### 删除报表模板

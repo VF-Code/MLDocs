@@ -10,7 +10,7 @@
 
 ![创建编辑部门](https://mldocs.ks3-cn-beijing.ksyuncs.com/%E7%BB%84%E7%BB%87%E6%9E%B6%E6%9E%84/%E6%96%B0%E5%BB%BA%E9%83%A8%E9%97%A8.png)
 
-* 部门树形展示
+* 部门树形展示  
 &emsp;&emsp;提供树形视图或层次结构视图，用于展示部门的层级关系和成员分配情况。通过部门树形展示，可以清晰地看出各部门之间的从属关系和成员分布情况，方便进行管理和调整。
 
 ![部门树形展示](https://mldocs.ks3-cn-beijing.ksyuncs.com/%E7%BB%84%E7%BB%87%E6%9E%B6%E6%9E%84/%E9%83%A8%E9%97%A8%E6%A0%91%E7%8A%B6%E5%9B%BE.png)
@@ -25,40 +25,49 @@
 ---------------
 &emsp;&emsp;用户指系统的使用者，用户通过一组用户名、密码登录美乐系统。用户在美乐中是非常重要的概念，其贯穿于整个系统。例如，业务记录的创建者、修改者以及拥有者都是以用户作为基础。每个用户将隶属于一个部门，并被赋予一种或多种角色，这将影响到其所能使用的系统功能，以及能够查看或操作的数据范围。
 
-![用户管理](https://mldocs.ks3-cn-beijing.ksyuncs.com/%E7%BB%84%E7%BB%87%E6%9E%B6%E6%9E%84/%E7%94%A8%E6%88%B7%E7%AE%A1%E7%90%86.png)
+* 新增用户 
+
+&emsp;&emsp;在系统管理 - 组织架构 - 用户管理模块，点击新建用户，可设置用户基本信息，包括登录账号及密码。
+
+![用户管理](https://mldocs.ks3-cn-beijing.ksyuncs.com/%E7%BB%84%E7%BB%87%E6%9E%B6%E6%9E%84/%E6%96%B0%E5%BB%BA%E7%94%A8%E6%88%B7%EF%BC%88%E7%BB%84%E7%BB%87%E6%9E%B6%E6%9E%84%EF%BC%89.png)
+
+* 添加角色  
+
+&emsp;&emsp;该功能为将角色与用户关联起来，通过为不同用户分配不同的角色，可以赋予其相应的权限和职责。
+
+![添加角色](https://mldocs.ks3-cn-beijing.ksyuncs.com/%E7%BB%84%E7%BB%87%E6%9E%B6%E6%9E%84/%E7%94%A8%E6%88%B7%E6%B7%BB%E5%8A%A0%E8%A7%92%E8%89%B2%EF%BC%88%E7%BB%84%E7%BB%87%E6%9E%B6%E6%9E%84%EF%BC%89.png)
 
 * 重置登录密码  
 
-&emsp;&emsp;点击系统右上角头像，在下拉面板中，可以看到「账号信息」按钮，点击账号信息，输入当前密码、新密码、确认新密码后点击保存密码进行密码重置。
+&emsp;&emsp;打开用户详情，点击重置密码按钮可修改用户登录密码，为保护用户密码隐私安全，支持生成随机密码，用户用随机密码登录系统后可以在个人信息中进行密码修改。
 
-![重置密码](https://mldocs.ks3-cn-beijing.ksyuncs.com/%E7%BB%84%E7%BB%87%E6%9E%B6%E6%9E%84/%E9%87%8D%E7%BD%AE%E5%AF%86%E7%A0%81.png)
+![重置密码](https://mldocs.ks3-cn-beijing.ksyuncs.com/%E7%BB%84%E7%BB%87%E6%9E%B6%E6%9E%84/%E9%87%8D%E7%BD%AE%E5%AF%86%E7%A0%81%EF%BC%88%E7%BB%84%E7%BB%87%E6%9E%B6%E6%9E%84%EF%BC%89.png)
 
 ### 团队
 ---------------
 &emsp;&emsp;团队是一种跨职能部门的组织结构，是对部门（组织结构）的一种补充。例如在达成一个项目时，通常需要多个部门的人员相互配合，围绕项目所产生数据与资源可供团队内成员共享使用，而团队外的人员通常无需关注。通过团队，可以达到更灵活的数据访问权限管控目的。
 
-![团队](https://mldocs.ks3-cn-beijing.ksyuncs.com/%E7%BB%84%E7%BB%87%E6%9E%B6%E6%9E%84/%E5%9B%A2%E9%98%9F%E7%AE%A1%E7%90%86.png)
+![团队](https://mldocs.ks3-cn-beijing.ksyuncs.com/%E7%BB%84%E7%BB%87%E6%9E%B6%E6%9E%84/%E5%9B%A2%E9%98%9F%EF%BC%88%E7%BB%84%E7%BB%87%E6%9E%B6%E6%9E%84%EF%BC%89.png)
 
 **1.添加团队**
 
 &emsp;&emsp;进入系统管理 - 组织机构 - 团队，点击右测 [添加] ，然后填写用户名称、负责人、所属部门、是否禁用。
-![添加团队](https://mldocs.ks3-cn-beijing.ksyuncs.com/%E7%BB%84%E7%BB%87%E6%9E%B6%E6%9E%84/%E6%B7%BB%E5%8A%A0%E5%9B%A2%E9%98%9F.png)
+
+![添加团队](https://mldocs.ks3-cn-beijing.ksyuncs.com/%E7%BB%84%E7%BB%87%E6%9E%B6%E6%9E%84/%E6%B7%BB%E5%8A%A0%E5%9B%A2%E9%98%9F%EF%BC%88%E7%BB%84%E7%BB%87%E6%9E%B6%E6%9E%84%EF%BC%89.png)
 
 **2.编辑删除团队**  
 
-![编辑删除团队](https://mldocs.ks3-cn-beijing.ksyuncs.com/%E7%BB%84%E7%BB%87%E6%9E%B6%E6%9E%84/%E7%BC%96%E8%BE%91%E5%88%A0%E9%99%A4%E5%9B%A2%E9%98%9F.png)
+![编辑删除团队](https://mldocs.ks3-cn-beijing.ksyuncs.com/%E7%BB%84%E7%BB%87%E6%9E%B6%E6%9E%84/%E7%BC%96%E8%BE%91%E5%88%A0%E9%99%A4%E5%9B%A2%E9%98%9F%EF%BC%88%E7%BB%84%E7%BB%87%E6%9E%B6%E6%9E%84%EF%BC%89.png)
 
 &emsp;&emsp;1.点击【编辑】可对团队的用户名称、负责人、所属部门、是否禁用字段进行编辑。
 
-![编辑团队](https://mldocs.ks3-cn-beijing.ksyuncs.com/%E7%BB%84%E7%BB%87%E6%9E%B6%E6%9E%84/%E7%BC%96%E8%BE%91%E5%9B%A2%E9%98%9F.png)
+![编辑团队](https://mldocs.ks3-cn-beijing.ksyuncs.com/%E7%BB%84%E7%BB%87%E6%9E%B6%E6%9E%84/%E7%BC%96%E8%BE%91%E5%9B%A2%E9%98%9F%EF%BC%88%E7%BB%84%E7%BB%87%E6%9E%B6%E6%9E%84%EF%BC%89.png)
 
 &emsp;&emsp;2.点击【删除】可将对应的团队删除。
 
-![删除团队](https://mldocs.ks3-cn-beijing.ksyuncs.com/%E7%BB%84%E7%BB%87%E6%9E%B6%E6%9E%84/%E5%88%A0%E9%99%A4%E5%9B%A2%E9%98%9F.png)
-
 **3.添加/删除团队成员**
 
-![添加/删除团队成员](https://mldocs.ks3-cn-beijing.ksyuncs.com/%E7%BB%84%E7%BB%87%E6%9E%B6%E6%9E%84/%E6%B7%BB%E5%8A%A0%E5%88%A0%E9%99%A4%E5%9B%A2%E9%98%9F%E6%88%90%E5%91%98.png)
+![添加/删除团队成员](https://mldocs.ks3-cn-beijing.ksyuncs.com/%E7%BB%84%E7%BB%87%E6%9E%B6%E6%9E%84/%E6%B7%BB%E5%8A%A0%E7%BC%96%E8%BE%91%E5%9B%A2%E9%98%9F%E6%88%90%E5%91%98%EF%BC%88%E7%BB%84%E7%BB%87%E6%9E%B6%E6%9E%84%EF%BC%89.png)
 
 标注的区域分别为：  
 1.在团队详情中点击页签【成员列表】查看该团队成员。  

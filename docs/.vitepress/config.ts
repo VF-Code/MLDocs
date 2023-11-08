@@ -67,6 +67,7 @@ export default defineConfig({
             { text: '触发器逻辑', link: '/mlbook/admin/admin07' },
             { text: '仪表盘设计', link: '/mlbook/admin/admin08' },
             { text: '报表设计', link: '/mlbook/admin/admin09' },
+            { text: '通用设置', link: '/mlbook/admin/admin10' },
 
           ]
         },
